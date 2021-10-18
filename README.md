@@ -12,3 +12,5 @@ https://www.processon.com/view/link/616d3ce2f346fb06a9f63935
 ## 领域模型  
 https://www.processon.com/diagraming/616428d163768921fa176b02
 
+## API文档  
+https://shimo.im/docs/rgqYVcwXy88kVgrV/
