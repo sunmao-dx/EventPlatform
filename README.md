@@ -14,3 +14,6 @@ https://www.processon.com/diagraming/616428d163768921fa176b02
 
 ## API文档  
 https://shimo.im/docs/rgqYVcwXy88kVgrV/
+
+## 测试用repo  
+https://gitee.com/meta-oss/event-test
